@@ -48,7 +48,7 @@ export default function Page() {
           </div>
           
           <h1 className="text-2xl sm:text-4xl md:text-6xl lg:text-7xl font-serif font-bold text-amber-600 mb-4 sm:mb-6 leading-tight">
-            Mann Mandalas
+            Mann Mandala
           </h1>
           
           <p className="text-sm sm:text-lg md:text-xl text-slate-600 mb-5 sm:mb-6 max-w-3xl mx-auto leading-relaxed px-2">
@@ -134,7 +134,7 @@ export default function Page() {
                   I stumbled into the world of mandalas and got hooked—it's more than art, it’s a way to find balance and inspire others. I craft custom pieces and lead hands-on workshops and team sessions that bring calm focus and creativity.
                 </p>
                   <p className="text-sm sm:text-base md:text-lg">
-                    In 2020, when Covid hit, I instinctively turned inward, dedicating time to creativity for my mental health. As a self-taught artist, I discovered my passion with dotting and acrylics.
+                    In 2020, when Covid hit, I instinctively turned inward, dedicating time to creativity for my mental health. As a self-taught artist, I discovered my passion with dotting and mandala.
                   </p>
                   <p className="text-sm sm:text-base md:text-lg">
                     My intricate works take 10 to 100 hours each, embodying harmony and balance. The peace I feel while creating transfers to the viewer.
