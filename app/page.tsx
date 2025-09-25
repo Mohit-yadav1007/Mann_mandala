@@ -232,7 +232,7 @@ export default function Page() {
               </svg>
             </a>
             {/* Email */}
-            <a href="mailto:mannmandala07@gmail.com" className="w-11 h-11 sm:w-12 sm:h-12 rounded-full bg-blue-600 flex items-center justify-center shadow-md hover:shadow-lg transition-shadow">
+            <a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrgDMljfCjXcKCKcnjFfgGQgsjVFslhkfNtmRQDwwglVqhZVZQNSTfCSZgNkQHVMNSFjZg" className="w-11 h-11 sm:w-12 sm:h-12 rounded-full bg-blue-600 flex items-center justify-center shadow-md hover:shadow-lg transition-shadow">
               <svg className="w-5 h-5 sm:w-6 sm:h-6 text-white" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>
               </svg>
